@@ -10,11 +10,10 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 ### Connect with me🌐
 <div align="left">
 
-  <a href="vskavinkumar2004@gmail.com" target="_blank">
   <a href="https://www.linkedin.com/in/kavinkumar-vs-4a3a06277/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="vskavinkumar2004@gmail.com" target="_blank">
+  <a href="mailto:vskavinkumar2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail logo"  />
   </a>
 </div>
