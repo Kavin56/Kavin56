@@ -73,7 +73,8 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
 	
-[![@KAVINKUMAR's Holopin board](https://www.holopin.io/@kavinkumarvs?verified=true#badges)](https://www.holopin.io/@kavinkumarvs?verified=true#badges)   
+[![KAVINKUMAR's Holopin badges](https://holopin.me/kavinkumarvs)](https://holopin.io/@kavinkumarvs)
+  
 	
 	
 </details>
