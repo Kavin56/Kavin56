@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFA07A&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm KAVINKUMAR VS Welcome to my Profile! animated typed out">
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FFA07A&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+KAVINKUMAR VS+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm KAVINKUMAR VS Welcome to my Profile! animated typed out">
 
 
 Greetings! 👋 I'm KAVINKUMAR VS, an avid machine learning enthusiast deeply engaged in unraveling the vast potential of artificial intelligence. Join me in our quest to innovate and harness the power of ML for transformative solutions! 🚀
