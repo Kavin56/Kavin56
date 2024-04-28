@@ -70,6 +70,7 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 		
 # **Badges**
+###Holopin badges
 
 [![KAVINKUMAR's Holopin badges](https://holopin.me/kavinkumarvs)](https://holopin.io/@kavinkumarvs)
   
