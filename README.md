@@ -50,9 +50,13 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kavin56&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kavin56&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin56&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kavin56&theme=midnight-purple&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 ## My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
