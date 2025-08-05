@@ -6,22 +6,23 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main  # or 'master' if your default branch is 'master'
+      - main  # change if your branch is 'master'
 
 jobs:
   generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate the snake animation
+      - name: Generate snake.svg with actual contribution coloring
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
-          # FULL 1 YEAR RANGE (use `2024-08-01` if you want fixed)
-          start_date: '2024-08-01'
+          # REMOVE color_dots if present
+          # REMOVE any fixed color assignments that override actual contribution levels
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
