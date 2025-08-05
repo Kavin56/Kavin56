@@ -49,13 +49,6 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
 
 
-## 🐍 GitHub Snake Contribution Animation
-
-![GitHub Snake](https://raw.githubusercontent.com/Kavin56/Kavin56/output/snake.svg)
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin56&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
