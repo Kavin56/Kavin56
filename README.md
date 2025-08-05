@@ -48,9 +48,9 @@ I am always looking for opportunities to collaborate on new and innovative ideas
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) 
 
-## 🐍 GitHub Contribution
+## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Kavin56/Kavin56/blob/output/snake.svg)
+![GitHub Snake Light](https://github.com/Kavin56/Kavin56/blob/output/snake.svg)
 
 
 # 📊 GitHub Stats:
